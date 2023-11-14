@@ -2,12 +2,13 @@
 .navbar {
     background-color: #6c5b398b;
     backdrop-filter: blur(7px);
+    font-family: 'cinzel', serif;
     
 }
 
 .navbar a {
     color: #fff;
-    font-family: 'cinzel', sans-serif;
+    font-family: 'cinzel', serif;
 }
 
 .navbar a:hover {
