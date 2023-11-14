@@ -7,7 +7,7 @@
 }
 
 .services h2 {
-    font-family: 'cinzel', sans-serif;
+    font-family: 'cinzel', serif;
     font-size: 2rem;
     color: #C07F00;
     font-weight: 500;
@@ -28,11 +28,15 @@
 }
 
 .card-title {
-    color: #fff;
+    color: #ffaa00;
     font-weight: 500;
+    font-family: 'poppins', sans-serif;
+
 }
 .card-text {
     color: #fff;
+    font-weight: 400;
+    font-family: 'poppins', sans-serif;
 }
 
 .services .card .btn {
@@ -68,7 +72,6 @@
 @media (max-width: 575.98px) { 
 
     .services {
-        font-family: 'cinzel', sans-serif;
     font-size: 2rem;
     color: #C07F00;
     font-weight: 500;
@@ -84,9 +87,12 @@
     
     .card-title {
         font-size: 10px;
+        font-weight: 500;
+        color: #ffaa00;
     }
     .card-text {
-        font-size: 8px;
+        font-size: 10px;
+        font-weight: 400;
     }
     
     .services .card .btn {
