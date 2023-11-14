@@ -1,22 +1,22 @@
 /* Navbar */
 .navbar {
-    background-color: rgba(0, 0, 0, 0);
+    background-color: #6c5b398b;
     backdrop-filter: blur(7px);
     
 }
 
 .navbar a {
-    color: #C07F00;
+    color: #fff;
     font-family: 'cinzel', sans-serif;
 }
 
 .navbar a:hover {
-    color: #ffaa00;
+    color: #ffe7b8;
 }
 
 .navbar .navbar-nav .nav-link.active {
     font-weight: 700;
-    color: #C07F00;
+    color: #ffe2a9;
 }
 
 .navbar-brand img {
