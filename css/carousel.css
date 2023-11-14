@@ -1,7 +1,7 @@
 /* Carousel Hero */
 .jumbotron {
     padding-top: 5rem;
-    background-image: url(/assets/img/Banner.jpg);
+    background-image: url(/assets/img/Banner.JPG);
     background-size: cover;
     height: 700px;
 }
@@ -9,7 +9,7 @@
 /* Media Mobile */
 @media (max-width: 575.98px) { 
 .jumbotron {
-    background-image: url(/assets/img/Banner-mobile.jpg);
+    background-image: url(/assets/img/Banner-mobile.JPG);
     background-size: cover;
     height: 390px;
  }
