@@ -9,8 +9,9 @@
 /* Media Mobile */
 @media (max-width: 575.98px) { 
 .jumbotron {
-    background-image: url(../assets/img/Banner-mobile.jpg);
+    background-image: url(../assets/img/fhd-banner.jpg);
     background-size: cover;
-    height: 390px;
+    height: 670px;
+    width: 100%;
  }
 }
