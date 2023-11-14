@@ -1,0 +1,111 @@
+/* Services */
+
+.services {
+    padding-top: 4rem;
+}
+
+.services h2 {
+    font-family: 'cinzel', sans-serif;
+    font-size: 2rem;
+    color: #C07F00;
+    font-weight: 500;
+    padding-bottom: 2rem;
+}
+
+.card-img-top {
+  width: 100%;
+}
+
+.card {
+    border-radius: 20px;
+    margin-top: 2rem;
+    object-fit: cover;
+    width: 20rem;
+}
+
+.card-title {
+    color: #C07F00;
+    font-weight: 500;
+}
+.card-text {
+    color: #714b00;
+}
+
+.services .card .btn {
+    color: #fff;
+    font-weight: 500;
+    background-color: #000;
+    margin: 1rem;
+}
+
+.card .btn:hover {
+    color: #fff;
+    font-weight: 700;
+    background-color: #916000;
+}
+
+.card .sosmed {
+  color: #C07F00;
+  padding-bottom: 1rem;
+  font-size: 1rem;
+  text-decoration: none;
+}
+
+.card .sosmed:hover {
+  color: #C07F00;
+  padding-bottom: 1rem;
+  font-size: 1rem;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+/* Media Mobile */
+
+@media (max-width: 575.98px) { 
+    .card {
+        border-radius: 20px;
+        margin-top: 2rem;
+        object-fit: cover;
+        width: 10rem;
+    }
+    
+    .card-title {
+        color: #C07F00;
+        font-weight: 500;
+        font-size: 10px;
+    }
+    .card-text {
+        color: #714b00;
+        font-size: 8px;
+    }
+    
+    .services .card .btn {
+        color: #fff;
+        font-weight: 500;
+        background-color: #000;
+        font-size: 10px;
+    }
+    
+    .card .btn:hover {
+        color: #fff;
+        font-weight: 700;
+        background-color: #916000;
+    }
+    
+    .card .sosmed {
+      color: #C07F00;
+      padding-bottom: 1rem;
+      font-size: 1rem;
+      text-decoration: none;
+      font-size: 10px;
+    }
+    
+    .card .sosmed:hover {
+      color: #C07F00;
+      padding-bottom: 1rem;
+      font-size: 1rem;
+      font-weight: 700;
+      text-decoration: none;
+      font-size: 10px;
+    }
+ }

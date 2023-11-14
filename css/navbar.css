@@ -1,0 +1,35 @@
+/* Navbar */
+.navbar {
+    background-color: rgba(0, 0, 0, 0);
+    backdrop-filter: blur(7px);
+    
+}
+
+.navbar a {
+    color: #C07F00;
+    font-family: 'cinzel', sans-serif;
+}
+
+.navbar a:hover {
+    color: #ffaa00;
+}
+
+.navbar .navbar-nav .nav-link.active {
+    font-weight: 700;
+    color: #C07F00;
+}
+
+.navbar-brand img {
+    width: 150px;
+}
+
+/* media quaries mobile */
+@media (max-width: 575.98px) { 
+    .navbar {
+        margin: 1rem;
+        border-top-right-radius: 20px;
+        border-top-left-radius: 20px;
+        border-bottom-left-radius: 20px;
+        border-bottom-right-radius: 20px;
+    }
+ }

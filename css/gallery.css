@@ -1,0 +1,14 @@
+/* Gallery */
+.gallery h2 {
+    color: #C07F00;
+    font-size: 2rem;
+    font-weight: 500;
+    font-family: 'cinzel', sans-serif;
+  }
+
+  .gallery p {
+    color: #C07F00;
+    font-size: 1rem;
+    font-weight: 500;
+    font-family: 'cinzel', sans-serif;
+  }
